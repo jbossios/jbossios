@@ -10,7 +10,7 @@
 
 **Languages:** English, Spanish, Italian
 
-**Profesional interests:** Data science | Data analysis | Python | Physics
+**Profesional interests:** Data science | Data analysis | Software development | Project management | Physics
 
 **Hobbies/interests outside work:** Boardgames | Escape rooms | Traveling | Videogames | Movies / TV shows
 
