@@ -4,13 +4,11 @@
 
 **Location:** Geneva, Switzerland
 
-**Current job:** Research Fellow at CERN
-
 **Education:** PhD in Physics from Universidad de Buenos Aires
 
 **Languages:** English, Spanish, Italian
 
-**Profesional interests:** Data science | Data analysis | Software development | Project management | Physics
+**Profesional interests:** Project management | Data science | Data analysis | Software development
 
 **Hobbies/interests outside work:** Boardgames | Escape rooms | Traveling | Videogames | Movies / TV shows
 
