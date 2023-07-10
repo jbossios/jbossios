@@ -10,6 +10,8 @@
 
 **Profesional interests:** Project management | Data science | Data analysis | Software development
 
+**Website:** <a href="https://www.jonathanbossio.com">www.jonathanbossio.com</a>
+
 **Hobbies/interests outside work:** Boardgames | Escape rooms | Traveling | Videogames | Movies / TV shows
 
 ## Connect with me
