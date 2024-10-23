@@ -26,7 +26,8 @@
 
 ## Software / Tools
 
-<p align="left"> 
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="100" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="45" height="45"/>
@@ -35,8 +36,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg", alt="C++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://camo.githubusercontent.com/bc0c839f32126d45c21472c3ea883223fdaa2efc7d3f82da51fd7907efcbd5bd/68747470733a2f2f7777772e6b756265666c6f772e6f72672f696d616765732f6c6f676f2e737667" alt="kubeflow" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/2/21/Kubeflow-logo.png" alt="kubeflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Microsoft Windows" width="45" height="45"/>
 <img src="https://www.smu.edu/-/media/Site/OIT/3rd_Party_Logos/Microsoft_365.svg" alt="Microsoft 365" width="145" height="45"/>
