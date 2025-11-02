@@ -6,6 +6,12 @@
 
 **Current job:** Senior Data Scientist at MANGO
 
+**Previous jobs:** 
+
+- Data Scientist at HP
+- Senior Research Fellow at CERN
+- Research Associate at McGill University
+
 **Education:** PhD in Physics from Universidad de Buenos Aires
 
 **Languages:** English, Spanish, Italian
