@@ -4,7 +4,7 @@
 
 **Location:** Barcelona, Spain
 
-**Current job:** Data Scientist at HP
+**Current job:** Senior Data Scientist at MANGO
 
 **Education:** PhD in Physics from Universidad de Buenos Aires
 
@@ -14,7 +14,7 @@
 
 **Website:** <a href="https://www.jonathanbossio.com">www.jonathanbossio.com</a>
 
-**Hobbies/interests outside work:** Boardgames | Escape rooms | Traveling | Videogames | Movies / TV shows
+**Hobbies/interests outside work:** Drumming | Boardgames | Escape rooms | Traveling | Videogames | Movies / TV shows
 
 ## Connect with me
 
